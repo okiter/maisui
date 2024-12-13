@@ -18,34 +18,102 @@
 
 ## 功能列表
 
-| 小红书   | [搜索结果评论采集](#xhs01) |
-| -------- | -------------------------- |
-|          | [发现页自动评论AI](#xhs02) |
-|          |                            |
-|          |                            |
-|          |                            |
-|          |                            |
-|          |                            |
-|          |                            |
-| **快手** | 单视频评论回复AI版         |
-|          | 评论引流                   |
-|          |                            |
-|          |                            |
-|          |                            |
-| 抖音     | 自动点赞评论AI版           |
-|          | 搜索结果视频采集           |
-|          | 搜索用户并发送私           |
-|          |                            |
-|          |                            |
-|          |                            |
-|          |                            |
-|          |                            |
+| 平台       | 可用功能                                 |
+| ---------- | ---------------------------------------- |
+| **小红书** | [搜索结果评论采集](#xhs01)               |
+|            | [发现页自动评论AI](#xhs02)               |
+|            | [多账号登录](#xhs03)                     |
+|            | [博主笔记信息采集](#xhs04)               |
+|            | [多账号浏览&评论 -养号专用](#xhs05)      |
+|            | [批量发布图文](#xhs06)                   |
+|            | [搜索结果笔记采集](#xhs07)               |
+|            | [多账号多笔记评论](#xhs08)               |
+|            | [关键字搜索博主信息采集](#xhs09)         |
+|            | [批量上传视频](#xhs10)                   |
+|            | [根据笔记链接采集评论和回复数据](#xhs11) |
+|            | [小红书搜索页-自动评论AI版](#xhs12)      |
+|            |                                          |
+| **抖音**   | [朋友视频-自动点赞评论AI版](#dy01)       |
+|            | [搜索结果视频采集](#dy02)                |
+|            | [搜索用户并发送私信](#dy03)              |
+|            | [搜索页无限评论](#dy04)                  |
+|            | [搜索结果评论无限采集](#dy05)            |
+|            | [批量上传视频](#dy06)                    |
+|            | [搜索页客户信息自动采集](#dy07)          |
+|            | [多账号多笔记评论](#dy08)                |
+|            | [评论引流AI版](#dy09)                    |
+|            |                                          |
+| **快手**   | [单视频评论回复AI版](ks01)               |
+|            | [评论引流](ks02)                         |
+|            | [搜索结果评论采集](ks03)                 |
+|            |                                          |
+| **Tiktok** | [博主视频批量采集](#tt01)                |
+|            | [批量下载视频](#tt02)                    |
+|            | [浏览视频并评论](#tt03)                  |
+|            |                                          |
+| **其他**   | [google批量翻译图片](#qt01)              |
+|            | [Instagram-博主视频批量采集](#qt02)      |
+|            | [Instagram-批量下载视频](#qt03)          |
+|            | [Instagram-批量下载视频](#qt04)          |
+|            |                                          |
+|            |                                          |
+|            |                                          |
+|            |                                          |
 
 ## 功能演示列表
 
 
-**<div id="xhs02"  style="font-weight: bold;">小红书：搜索结果评论采集</div>**
-**<div id="xhs02"  style="font-weight: bold;">小红书：单视频评论回复AI版</div>**
+
+**<div id="xhs01"  style="font-weight: bold;">小红书-搜索结果评论采集/div>**
+**<div id="xhs02"  style="font-weight: bold;">小红书-发现页自动评论AI版</div>**
+**<div id="xhs03"  style="font-weight: bold;">小红书-多账号登录</div>**
+**<div id="xhs04"  style="font-weight: bold;">小红书-博主笔记信息采集</div>**
+**<div id="xhs05"  style="font-weight: bold;">小红书-多账号浏览&评论 -养号专用</div>**
+**<div id="xhs06"  style="font-weight: bold;">小红书-批量发布图文</div>**
+**<div id="xhs07"  style="font-weight: bold;">小红书-搜索结果笔记采集</div>**
+**<div id="xhs08"  style="font-weight: bold;">小红书-多账号多笔记评论</div>**
+**<div id="xhs09"  style="font-weight: bold;">小红书-关键字搜索博主信息采集</div>**
+**<div id="xhs10"  style="font-weight: bold;">小红书-批量上传视频</div>**
+**<div id="xhs11"  style="font-weight: bold;">小红书-根据笔记链接采集评论和回复数据</div>**
+**<div id="xhs12"  style="font-weight: bold;">小红书搜索页-自动评论AI版</div>**
+
+
+
+
+
+**<div id="dy01"  style="font-weight: bold;">抖音朋友视频-自动点赞评论AI版</div>**
+**<div id="dy02"  style="font-weight: bold;">抖音-搜索结果视频采集</div>**
+**<div id="dy03"  style="font-weight: bold;">抖音-搜索用户并发送私信</div>**
+**<div id="dy04"  style="font-weight: bold;">抖音-搜索页无限评论</div>**
+**<div id="dy05"  style="font-weight: bold;">抖音-搜索结果评论无限采集</div>**
+**<div id="dy06"  style="font-weight: bold;">抖音-批量上传视频</div>**
+**<div id="dy07"  style="font-weight: bold;">抖音-搜索页客户信息自动采集</div>**
+**<div id="dy08"  style="font-weight: bold;">抖音-多账号多笔记评论</div>**
+**<div id="dy09"  style="font-weight: bold;">抖音-评论引流AI版</div>**
+
+
+
+**<div id="ks01"  style="font-weight: bold;">快手-单视频评论回复AI版</div>**
+**<div id="ks02"  style="font-weight: bold;">快手-评论引流</div>**
+**<div id="ks03"  style="font-weight: bold;">快手-搜索结果评论采集</div>**
+
+
+
+
+
+**<div id="tt01"  style="font-weight: bold;">tiktok-博主视频批量采集</div>**
+**<div id="tt02"  style="font-weight: bold;">tiktok-批量下载视频</div>**
+**<div id="tt03"  style="font-weight: bold;">tiktok-浏览视频并评论</div>**
+
+**<div id="qt01"  style="font-weight: bold;">google批量翻译图片</div>**
+**<div id="qt02"  style="font-weight: bold;">Instagram-博主视频批量采集</div>**
+**<div id="qt03"  style="font-weight: bold;">Instagram-批量下载视频</div>**
+**<div id="qt04"  style="font-weight: bold;">微信公众号文章采集</div>**
+
+
+
+
+
 
 
 
