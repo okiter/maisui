@@ -17,48 +17,116 @@
 # 软件功能
 
 ## 功能列表
+<table>
+  <tr>
+    <th>平台</th>
+    <th>可用功能</th>
+  </tr>
+  <tr>
+    <td rowspan="12"><strong>小红书</strong></td>
+    <td><a href="#xhs01">搜索结果评论采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs02">发现页自动评论AI</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs03">多账号登录</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs04">博主笔记信息采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs05">多账号浏览&评论 -养号专用</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs06">批量发布图文</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs07">搜索结果笔记采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs08">多账号多笔记评论</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs09">关键字搜索博主信息采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs10">批量上传视频</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs11">根据笔记链接采集评论和回复数据</a></td>
+  </tr>
+  <tr>
+    <td><a href="#xhs12">小红书搜索页-自动评论AI版</a></td>
+  </tr>
+  <tr>
+    <td rowspan="9"><strong>抖音</strong></td>
+    <td><a href="#dy01">朋友视频-自动点赞评论AI版</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy02">搜索结果视频采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy03">搜索用户并发送私信</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy04">搜索页无限评论</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy05">搜索结果评论无限采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy06">批量上传视频</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy07">搜索页客户信息自动采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy08">多账号多笔记评论</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dy09">评论引流AI版</a></td>
+  </tr>
 
-| 平台       | 可用功能                                 |
-| ---------- | ---------------------------------------- |
-| **小红书** | [搜索结果评论采集](#xhs01)               |
-|            | [发现页自动评论AI](#xhs02)               |
-|            | [多账号登录](#xhs03)                     |
-|            | [博主笔记信息采集](#xhs04)               |
-|            | [多账号浏览&评论 -养号专用](#xhs05)      |
-|            | [批量发布图文](#xhs06)                   |
-|            | [搜索结果笔记采集](#xhs07)               |
-|            | [多账号多笔记评论](#xhs08)               |
-|            | [关键字搜索博主信息采集](#xhs09)         |
-|            | [批量上传视频](#xhs10)                   |
-|            | [根据笔记链接采集评论和回复数据](#xhs11) |
-|            | [小红书搜索页-自动评论AI版](#xhs12)      |
-|            |                                          |
-| **抖音**   | [朋友视频-自动点赞评论AI版](#dy01)       |
-|            | [搜索结果视频采集](#dy02)                |
-|            | [搜索用户并发送私信](#dy03)              |
-|            | [搜索页无限评论](#dy04)                  |
-|            | [搜索结果评论无限采集](#dy05)            |
-|            | [批量上传视频](#dy06)                    |
-|            | [搜索页客户信息自动采集](#dy07)          |
-|            | [多账号多笔记评论](#dy08)                |
-|            | [评论引流AI版](#dy09)                    |
-|            |                                          |
-| **快手**   | [单视频评论回复AI版](ks01)               |
-|            | [评论引流](ks02)                         |
-|            | [搜索结果评论采集](ks03)                 |
-|            |                                          |
-| **Tiktok** | [博主视频批量采集](#tt01)                |
-|            | [批量下载视频](#tt02)                    |
-|            | [浏览视频并评论](#tt03)                  |
-|            |                                          |
-| **其他**   | [google批量翻译图片](#qt01)              |
-|            | [Instagram-博主视频批量采集](#qt02)      |
-|            | [Instagram-批量下载视频](#qt03)          |
-|            | [Instagram-批量下载视频](#qt04)          |
-|            |                                          |
-|            |                                          |
-|            |                                          |
-|            |                                          |
+  <tr>
+    <td rowspan="3"><strong>快手</strong></td>
+    <td><a href="#ks01">单视频评论回复AI版</a></td>
+  </tr>
+  <tr>
+    <td><a href="#ks02">评论引流</a></td>
+  </tr>
+  <tr>
+    <td><a href="#ks03">搜索结果评论采集</a></td>
+  </tr>
+
+  <tr>
+    <td rowspan="3"><strong>Tiktok</strong></td>
+    <td><a href="#tt01">博主视频批量采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#tt02">批量下载视频</a></td>
+  </tr>
+  <tr>
+    <td><a href="#tt03">浏览视频并评论</a></td>
+  </tr>
+
+  <tr>
+    <td rowspan="4"><strong>其他</strong></td>
+    <td><a href="#qt01">google批量翻译图片</a></td>
+  </tr>
+  <tr>
+    <td><a href="#qt02">Instagram-博主视频批量采集</a></td>
+  </tr>
+  <tr>
+    <td><a href="#qt03">Instagram-批量下载视频</a></td>
+  </tr>
+  <tr>
+    <td><a href="#qt04">Instagram-批量下载视频</a></td>
+  </tr>
+</table>
+
+
+
 
 ## 功能演示列表
 
@@ -114,6 +182,21 @@
 
 
 
+<table>
+  <tr>
+    <th>姓名</th>
+    <th>年龄</th>
+    <th>城市</th>
+  </tr>
+  <tr>
+    <td>张三</td>
+    <td>28</td>
+    <td>成都</td>
+  </tr>
+  <tr>
+    <td colspan="3">合并了三列的单元格</td>
+  </tr>
+</table>
 
 
 
