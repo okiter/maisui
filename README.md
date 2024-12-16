@@ -60,7 +60,7 @@
     <td><a href="#xhs12">小红书搜索页-自动评论AI版</a></td>
   </tr>
   <tr>
-    <td rowspan="9"><strong>抖音</strong></td>
+    <td rowspan="10"><strong>抖音</strong></td>
     <td><a href="#dy01">朋友视频-自动点赞评论AI版</a></td>
   </tr>
   <tr>
@@ -86,6 +86,9 @@
   </tr>
   <tr>
     <td><a href="#dy09">评论引流AI版</a></td>
+  </tr>
+   <tr>
+    <td><a href="#dy10">直播间自动评论</a></td>
   </tr>
 
   <tr>
@@ -159,7 +162,8 @@
 **<div id="dy07"  style="font-weight: bold;">抖音-搜索页客户信息自动采集</div>**
 **<div id="dy08"  style="font-weight: bold;">抖音-多账号多笔记评论</div>**
 **<div id="dy09"  style="font-weight: bold;">抖音-评论引流AI版</div>**
-
+**<div id="dy10"  style="font-weight: bold;">抖音-直播间自动评论</div>**
+<img src="demo_gif/抖音直播间自动评论.gif"/>
 
 
 **<div id="ks01"  style="font-weight: bold;">快手-单视频评论回复AI版</div>**
