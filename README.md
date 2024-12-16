@@ -136,8 +136,9 @@
 
 
 **<div id="xhs01"  style="font-weight: bold;">小红书-搜索结果评论采集</div>**
-<img src="demo_gif/小红书-搜索结果评论采集.gif"/>
+<img src="demo_gif/小红书-发现页自动评论AI版.gif"/>
 **<div id="xhs02"  style="-weight: bold;">小红书-发现页自动评论AI版</div>**
+<img src="demo_gif/小红书-多账号登录.gif"/>
 **<div id="xhs03"  style="font-weight: bold;">小红书-多账号登录</div>**
 <img src="demo_gif/小红书-多账号登录.gif"/>
 **<div id="xhs04"  style="font-weight: bold;">小红书-博主笔记信息采集</div>**
