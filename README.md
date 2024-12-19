@@ -156,6 +156,8 @@
 **<div id="xhs10"  style="font-weight: bold;">小红书-批量上传视频</div>**
 **<div id="xhs11"  style="font-weight: bold;">小红书-根据笔记链接采集评论和回复数据</div>**
 **<div id="xhs12"  style="font-weight: bold;">小红书搜索页-自动评论AI版</div>**
+<img src="demo_gif/小红书-搜索页自动评论.gif"/>
+
 
 
 
